@@ -1,0 +1,41 @@
+﻿  main.cpp
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(233,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(713,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(925,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1169,113): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1170,120): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1170,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1170,84): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1173,116): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1173,96): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1173,84): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1174,119): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1174,95): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1178,14): warning C4101: 'z': unreferenced local variable
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1178,11): warning C4101: 'y': unreferenced local variable
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1178,8): warning C4101: 'x': unreferenced local variable
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1177,9): warning C4101: 'j': unreferenced local variable
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1177,6): warning C4101: 'i': unreferenced local variable
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1334,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1360,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1361,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1366,37): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1397,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1399,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1418,23): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1421,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1424,23): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1427,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1466,39): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1469,39): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1505,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1506,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1510,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1513,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\delia\source\repos\WinterWonderland\WinterWonderland\main.cpp(1514,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  3 of 414 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  WinterWonderland.vcxproj -> C:\Users\delia\source\repos\WinterWonderland\Release\WinterWonderland.exe
